@@ -1,0 +1,5 @@
+pip_uninstall.sh
+uninstall.txt
+.python-version
+venv
+パッケージ化の注意点.txt
